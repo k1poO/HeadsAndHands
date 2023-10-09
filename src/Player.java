@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 // Класс для игрока
 class Player extends Creature {
     private int healCount = 4;
